@@ -1,0 +1,5 @@
+{
+  "min_conf_threshold": 0.35,
+  "filter_classes" : ["person"],
+  "model_type" : "efficientdet"
+}

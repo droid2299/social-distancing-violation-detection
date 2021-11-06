@@ -1,0 +1,4 @@
+Total number of family/friends groups: 0
+family IDs: []
+Total violation count 0
+Total People Count:  0
