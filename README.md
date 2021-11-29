@@ -35,8 +35,6 @@ Includes Object detection (efficientdet d4), Object tracking and Social Distance
 │       ├── freeze_model.py
 │       ├── generate_detections.py
 │       └── __init__.py
-├── op.csv
-├── sd_check_update1_disbird.ipynb
 ├── utils
 │   ├── get_params.py
 │   ├── gui.py
@@ -44,7 +42,7 @@ Includes Object detection (efficientdet d4), Object tracking and Social Distance
 │   ├── projection.py
 │   ├── violation_check.py
 │   └── visualize.py
-└── violation_id_counts_res.csv
+
 
 
 ```
