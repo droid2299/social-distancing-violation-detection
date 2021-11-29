@@ -48,10 +48,9 @@ Includes Object detection (efficientdet d4), Object tracking and Social Distance
 ```
 
 # Requirements
-opencv-python          4.2.0.34  
-pandas                 1.0.3  
-scikit-learn           0.22  
-tensorflow-gpu         1.15.0
+```
+pip install -r requirements.txt
+```
 
 
 
